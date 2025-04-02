@@ -29,5 +29,6 @@ To compile the project, open a terminal in the project's root directory and run:
 
 ```bash
 make
+```
 
 For more details on the project structure and design decisions, please refer to the [architecture.md](architecture.md) file.
