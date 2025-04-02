@@ -31,4 +31,4 @@ To compile the project, open a terminal in the project's root directory and run:
 make
 ```
 
-For more details on the project structure and design decisions, please refer to the [architecture.md](architecture.md) file.
+For more details on the project structure and design decisions, please refer to the [ARCHITECTURE.md](ARCHITECTURE.md) file.
